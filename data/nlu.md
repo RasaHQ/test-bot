@@ -26,6 +26,7 @@
 - what can you do?
 - what can I do?
 - what are you capable of responding to?
+- Let's go!!!!
 
 ## intent:deny
 - no
