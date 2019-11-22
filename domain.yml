@@ -35,7 +35,8 @@ templates:
   utter_used_rasa:
   - text: Great! Have you used Rasa before?
   utter_default:
-  - text: Sorry, I didn't quite understand.
+  - text: Sorry, I didn't quite understand. You can go through the get started flow
+      by saying hello!
 actions:
 - utter_greet
 - utter_docs
