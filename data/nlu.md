@@ -114,6 +114,7 @@
 - Subscribe
 - Subscribe me please
 - Can I subscribe to the newsletter?
+- i want to get the newsletter please
 
 ## intent:thanks
 - Thanks
