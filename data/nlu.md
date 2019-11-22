@@ -11,6 +11,7 @@
 - yes sir
 - yeah
 - of course!
+- yes, I have!
 
 ## intent:affirm+subscribe
 - Yes. Can you subscribe me to the newsletter please?
@@ -44,6 +45,7 @@
 - goodbye
 - see you around
 - see you later
+- bye!!!
 
 ## intent:greet
 - hey
@@ -59,6 +61,7 @@
 - Heyy
 - Hi Rasa
 - Hi Sara
+- Good afternoon!
 
 ## intent:location
 - I am from [London](location)
@@ -75,6 +78,7 @@
 - I am from [Clarkston](location)
 - I am from [Munich](location)
 - I am from the [Bay Area](location)
+- I come from [Stockholm](location)
 
 ## intent:name
 - My name is [Juste](name)
@@ -96,6 +100,7 @@
 - [Ross](name)
 - My name is also [Sara](name)!
 - [Ty](name)
+- My name [Geoff](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
