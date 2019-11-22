@@ -2,7 +2,6 @@
 * chitchat
   - utter_default
 
-
 ## new rasa user
 * greet
   - utter_greet

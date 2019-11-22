@@ -9,6 +9,7 @@
 - yuh
 - for sure
 - yes sir
+- yeah
 
 ## intent:affirm+subscribe
 - Yes. Can you subscribe me to the newsletter please?
