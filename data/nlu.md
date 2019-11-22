@@ -111,6 +111,7 @@
 - Subscribe
 - Subscribe me please
 - Can I subscribe to the newsletter?
+- subscribe
 
 ## intent:thanks
 - Thanks
@@ -130,3 +131,6 @@
 - US
 - America
 - United States
+
+## regex:Some pattern
+- ./?
