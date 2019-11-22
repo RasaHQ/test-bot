@@ -58,6 +58,7 @@
 - Hi
 - Heyy
 - Hi Rasa
+- Hi Sara
 
 ## intent:location
 - I am from [London](location)
@@ -94,6 +95,7 @@
 - My name is [Jason](name)
 - [Ross](name)
 - My name is also [Sara](name)!
+- [Ty](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
