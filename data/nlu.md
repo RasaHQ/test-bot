@@ -90,7 +90,7 @@
 - I am [Alan](name)
 - I'm [Alan](name)
 - I am [Tobias](name)
-- My name is [Jason](name)[Jason](name)
+- My name is [Jason](name)
 - [Ross](name)
 
 ## intent:subscribe
