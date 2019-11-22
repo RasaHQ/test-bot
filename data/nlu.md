@@ -10,6 +10,7 @@
 - for sure
 - yes sir
 - yeah
+- of course!
 
 ## intent:affirm+subscribe
 - Yes. Can you subscribe me to the newsletter please?
@@ -35,6 +36,7 @@
 - nope
 - nah
 - no sir
+- no i have not
 
 ## intent:goodbye
 - bye
@@ -52,6 +54,8 @@
 - Hello
 - Hey
 - yo
+- Hi
+- Heyy
 
 ## intent:location
 - I am from [London](location)
@@ -65,6 +69,8 @@
 - [Chicago](location)
 - [New Orleans](location)
 - [Maryland](location)
+- I am from [Clarkston](location)
+- I am from [Munich](location)
 
 ## intent:name
 - My name is [Juste](name)
@@ -78,6 +84,10 @@
 - [Teddy](name)
 - [Alex](name)
 - [George Jeter](name)
+- [Emma](name)
+- I am [Alan](name)
+- I'm [Alan](name)
+- I am [Tobias](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
@@ -87,6 +97,7 @@
 - I want to subscribe
 - Subscribe
 - Subscribe me please
+- Can I subscribe to the newsletter?
 
 ## intent:thanks
 - Thanks
@@ -95,6 +106,7 @@
 - many thanks
 - Awesome. Thanks!
 - Thank you thank you
+- THANK YOU
 
 ## synonym:NYC
 - New York

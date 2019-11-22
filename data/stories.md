@@ -2,7 +2,7 @@
 * chitchat
   - utter_default
 
-## new rasa user
+## new rasa user 1
 * greet
   - utter_greet
 * name{"name":"Alice"}
@@ -51,3 +51,16 @@
   - action_subscribe
 * goodbye
   - utter_goodbye
+
+## new rasa user 2
+
+* greet
+    - utter_greet
+* name{"name":"Alan"}
+    - utter_ask_location
+* location{"location":"London"}
+    - utter_used_rasa
+* deny
+    - utter_docs
+* thanks
+    - utter_goodbye

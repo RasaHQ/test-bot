@@ -47,3 +47,4 @@ actions:
 - utter_used_rasa
 - utter_default
 - action_subscribe
+- utter
