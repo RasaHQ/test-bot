@@ -20,6 +20,9 @@
 - Are you a bot?
 - Tell me your favourite song
 - Where are the best tacos?
+- what can you do?
+- what can I do?
+- what are you capable of responding to?
 
 ## intent:deny
 - no
@@ -46,6 +49,8 @@
 - good evening
 - hey there
 - Hello
+- Hey
+- yo
 
 ## intent:location
 - I am from [London](location)
@@ -58,6 +63,7 @@
 - [Paris](location)
 - [Chicago](location)
 - [New Orleans](location)
+- [Maryland](location)
 
 ## intent:name
 - My name is [Juste](name)
@@ -68,6 +74,9 @@
 - [Jeff](name)
 - [Gerald Smith](name)
 - I am [Seth Green](name)
+- [Teddy](name)
+- [Alex](name)
+- [George Jeter](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
@@ -92,6 +101,6 @@
 - New York City
 
 ## synonym:USA
-- United States
-- America
 - US
+- America
+- United States
