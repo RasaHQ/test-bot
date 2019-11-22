@@ -104,6 +104,8 @@
 - [Ty](name)
 - My name [Geoff](name)
 - i am [timmy](name)
+- My name is [Sam](name)
+- [Salah](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
