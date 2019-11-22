@@ -5,6 +5,10 @@
 - that sounds good
 - correct
 - Yes!
+- yep
+- yuh
+- for sure
+- yes sir
 
 ## intent:affirm+subscribe
 - Yes. Can you subscribe me to the newsletter please?
@@ -24,6 +28,9 @@
 - don't like that
 - no way
 - not really
+- nope
+- nah
+- no sir
 
 ## intent:goodbye
 - bye
@@ -48,6 +55,9 @@
 - I am from [Berlin](location)
 - I am based in the [New York](location:NYC)
 - I am from [Detroit](location)
+- [Paris](location)
+- [Chicago](location)
+- [New Orleans](location)
 
 ## intent:name
 - My name is [Juste](name)
@@ -55,12 +65,18 @@
 - Please call me [Brian](name)
 - I'm [Dan](name)
 - My name is [Tyler](name)
+- [Jeff](name)
+- [Gerald Smith](name)
+- I am [Seth Green](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
 - I would like to subscribe to Rasa newsletter please
 - Please add me to the Rasa newsletter subscriber list
 - Can I become a Rasa subscriber?
+- I want to subscribe
+- Subscribe
+- Subscribe me please
 
 ## intent:thanks
 - Thanks
@@ -68,9 +84,14 @@
 - thank you so much
 - many thanks
 - Awesome. Thanks!
+- Thank you thank you
 
 ## synonym:NYC
 - New York
+- The Big Apple
+- New York City
 
 ## synonym:USA
 - United States
+- America
+- US
