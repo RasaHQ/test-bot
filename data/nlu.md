@@ -37,6 +37,7 @@
 - nah
 - no sir
 - no i have not
+- I have not used Rasa
 
 ## intent:goodbye
 - bye
@@ -71,6 +72,7 @@
 - [Maryland](location)
 - I am from [Clarkston](location)
 - I am from [Munich](location)
+- I am from the [Bay Area](location)
 
 ## intent:name
 - My name is [Juste](name)
@@ -88,6 +90,8 @@
 - I am [Alan](name)
 - I'm [Alan](name)
 - I am [Tobias](name)
+- My name is [Jason](name)[Jason](name)
+- [Ross](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
