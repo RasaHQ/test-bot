@@ -4,6 +4,18 @@
 - of course
 - that sounds good
 - correct
+- Yes!
+
+## intent:affirm+subscribe
+- Yes. Can you subscribe me to the newsletter please?
+- Yep. I would also like to become a subscriber to the Rasa newsletter.
+- Yes I have. Also, add me to the Rasa newsletter subscriber list.
+
+## intent:chitchat
+- I like pizza
+- Are you a bot?
+- Tell me your favourite song
+- Where are the best tacos?
 
 ## intent:deny
 - no
@@ -12,7 +24,6 @@
 - don't like that
 - no way
 - not really
-
 
 ## intent:goodbye
 - bye
@@ -27,6 +38,7 @@
 - good morning
 - good evening
 - hey there
+- Hello
 
 ## intent:location
 - I am from [London](location)
@@ -35,24 +47,14 @@
 - I am from the [United States](location:USA)
 - I am from [Berlin](location)
 - I am based in the [New York](location:NYC)
+- I am from [Detroit](location)
 
 ## intent:name
 - My name is [Juste](name)
 - I am [Tom](name)
 - Please call me [Brian](name)
 - I'm [Dan](name)
-
-## intent:thanks
-- Thanks
-- thank you
-- thank you so much
-- many thanks
-
-## intent:chitchat
-- I like pizza
-- Are you a bot?
-- Tell me your favourite song
-- Where are the best tacos?
+- My name is [Tyler](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
@@ -60,7 +62,15 @@
 - Please add me to the Rasa newsletter subscriber list
 - Can I become a Rasa subscriber?
 
-## intent:affirm+subscribe
-- Yes. Can you subscribe me to the newsletter please?
-- Yep. I would also like to become a subscriber to the Rasa newsletter.
-- Yes I have. Also, add me to the Rasa newsletter subscriber list.
+## intent:thanks
+- Thanks
+- thank you
+- thank you so much
+- many thanks
+- Awesome. Thanks!
+
+## synonym:NYC
+- New York
+
+## synonym:USA
+- United States
