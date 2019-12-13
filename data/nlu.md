@@ -82,6 +82,8 @@
 - I am from the [Bay Area](location)
 - I come from [Stockholm](location)
 - i come from [sydney](location)
+- I am from [America](location)
+- I come from the [US](location)
 
 ## intent:name
 - My name is [Juste](name)
@@ -107,6 +109,7 @@
 - i am [timmy](name)
 - My name is [Sam](name)
 - [Salah](name)
+- I am Paul from the US
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
@@ -129,11 +132,11 @@
 - THANK YOU
 
 ## synonym:NYC
-- New York
-- The Big Apple
 - New York City
+- The Big Apple
+- New York
 
 ## synonym:USA
-- US
 - America
+- US
 - United States
