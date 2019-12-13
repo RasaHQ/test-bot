@@ -65,21 +65,17 @@
 * thanks
     - utter_goodbye
 
-## usual flow followed by flow
+## usual flow followed by thank you
 
 * greet
     - utter_greet
 * name{"name":"Jimbo"}
     - slot{"name":"Jimbo"}
     - utter_ask_location
-* location{"name":"SF"}
-    - slot{"name":"SF"}
+* location{"location":"SF"}
+    - slot{"location":"SF"}
     - utter_used_rasa
-    - slot{"name":"Jimbo"}
-    - slot{"name":"SF"}
 * affirm
-    - utter_send_blog
+	- utter_send_blog
 * thanks
-    - slot{"name":"Jimbo"}
-    - slot{"name":"SF"}
     - utter_goodbye

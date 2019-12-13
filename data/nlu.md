@@ -13,6 +13,7 @@
 - of course!
 - yes, I have!
 - Yes sir
+- ok
 
 ## intent:affirm+subscribe
 - Yes. Can you subscribe me to the newsletter please?
@@ -89,6 +90,7 @@
 - I live in [San Fran](location:SF)
 - I am from [America](location)
 - I come from the [US](location)
+- I am from [Charlotte](location)
 
 ## intent:name
 - My name is [Juste](name)
@@ -115,7 +117,11 @@
 - My name is [Sam](name)
 - [Salah](name)
 - My name is [Jimbo](name)
-
+- My name is bob
+- I am called [Sara](name)
+- My name is [Slim Shady](name)
+- [Marshall Mathers](name)
+- I am the real [Slim Shady](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
@@ -138,12 +144,14 @@
 - THANK YOU
 - Great!
 
-## synonym:NYC
+## synonym:NY
 - New York City
 - The Big Apple
 - New York
 
+## synonym:SF
+- San Fran
+
 ## synonym:USA
-- America
 - US
 - United States
