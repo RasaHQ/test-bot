@@ -12,6 +12,7 @@
 - yeah
 - of course!
 - yes, I have!
+- Yes sir
 
 ## intent:affirm+subscribe
 - Yes. Can you subscribe me to the newsletter please?
@@ -82,6 +83,13 @@
 - I am from the [Bay Area](location)
 - I come from [Stockholm](location)
 - i come from [sydney](location)
+- I come from [New York City](name)
+- I live in [SF](location)
+- [San Francisco](name)
+- I am Paul from the [US](location)
+- I come from the [US](location)
+- I am from [America](location)
+- I live in [San Fran](name:SF)
 
 ## intent:name
 - My name is [Juste](name)
@@ -107,6 +115,7 @@
 - i am [timmy](name)
 - My name is [Sam](name)
 - [Salah](name)
+- My name is [Jimbo](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
@@ -127,13 +136,14 @@
 - Awesome. Thanks!
 - Thank you thank you
 - THANK YOU
+- Great!
 
 ## synonym:NYC
-- New York
-- The Big Apple
 - New York City
+- The Big Apple
+- New York
 
 ## synonym:USA
-- US
 - America
+- US
 - United States

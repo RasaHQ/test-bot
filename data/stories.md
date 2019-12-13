@@ -64,3 +64,22 @@
     - utter_docs
 * thanks
     - utter_goodbye
+
+## usual flow followed by flow
+
+* greet
+    - utter_greet
+* name{"name":"Jimbo"}
+    - slot{"name":"Jimbo"}
+    - utter_ask_location
+* location{"name":"SF"}
+    - slot{"name":"SF"}
+    - utter_used_rasa
+    - slot{"name":"Jimbo"}
+    - slot{"name":"SF"}
+* affirm
+    - utter_send_blog
+* thanks
+    - slot{"name":"Jimbo"}
+    - slot{"name":"SF"}
+    - utter_goodbye
