@@ -79,3 +79,19 @@
 	- utter_send_blog
 * thanks
     - utter_goodbye
+
+## Story from conversation with b9525ab7-2f36-4f9e-8385-44e8f783eaf5 on December 17th 2019
+
+* greet
+    - utter_greet
+* name{"name":"Bob"}
+    - slot{"name":"Bob"}
+    - utter_ask_location
+* location{"location":"San Francisco"}
+    - slot{"location":"San Francisco"}
+    - utter_used_rasa
+* deny
+    - utter_docs
+    - slot{"name":"Bob"}
+    - slot{"location":"San Francisco"}
+    - utter_goodbye

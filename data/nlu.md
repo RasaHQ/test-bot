@@ -42,6 +42,7 @@
 - no sir
 - no i have not
 - I have not used Rasa
+- No, I have not
 
 ## intent:goodbye
 - bye
@@ -49,6 +50,7 @@
 - see you around
 - see you later
 - bye!!!
+- c u l8r
 
 ## intent:greet
 - hey
@@ -66,6 +68,7 @@
 - Hi Sara
 - Good afternoon!
 - hey you
+- HELLO
 
 ## intent:location
 - I am from [London](location)
@@ -91,6 +94,9 @@
 - I am from [America](location)
 - I come from the [US](location)
 - I am from [Charlotte](location)
+- I am from [San Francisco](location)
+- [Seattle](location)
+- [Boise](location)
 
 ## intent:name
 - My name is [Juste](name)
@@ -117,11 +123,20 @@
 - My name is [Sam](name)
 - [Salah](name)
 - My name is [Jimbo](name)
-- My name is bob
+- My name is [bob](name)
 - I am called [Sara](name)
 - My name is [Slim Shady](name)
 - [Marshall Mathers](name)
 - I am the real [Slim Shady](name)
+- I am [Bob](name)
+- [Bob](name)
+- My name is [Alice](name)
+- [Richard](name)
+- [Shaquille](name)
+- [Ziqi](name)
+- My name is [Jim](name)
+- [Mia](name)
+- I am [Dean](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
@@ -133,6 +148,7 @@
 - Subscribe me please
 - Can I subscribe to the newsletter?
 - i want to get the newsletter please
+- I want to receive the Rasa Newsletter
 
 ## intent:thanks
 - Thanks
@@ -153,5 +169,5 @@
 - San Fran
 
 ## synonym:USA
-- US
 - United States
+- US
