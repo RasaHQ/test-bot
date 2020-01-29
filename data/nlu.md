@@ -122,6 +122,7 @@
 - My name is [Slim Shady](name)
 - [Marshall Mathers](name)
 - I am the real [Slim Shady](name)
+- [Tyler](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
@@ -145,8 +146,8 @@
 - Great!
 
 ## synonym:NY
-- New York City
 - The Big Apple
+- New York City
 - New York
 
 ## synonym:SF
