@@ -18,4 +18,6 @@ class ActionSubscribe(Action):
 
          dispatcher.utter_message("Congratulatons! You have just subscribed to Rasa newsletter. As a little celebration gift, check out this cool doggo: {}".format(image))
 
+	# hello
+
          return []
