@@ -1,5 +1,6 @@
 ## intent:affirm
 - yes
+- for sure dude
 - indeed
 - of course
 - that sounds good
