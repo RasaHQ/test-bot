@@ -1,3 +1,35 @@
+## intent:name
+- My name is [Edgar](name)
+- My name is [Juste](name)
+- I am [Tom](name)
+- Please call me [Brian](name)
+- I'm [Dan](name)
+- My name is [Tyler](name)
+- [Jeff](name)
+- [Gerald Smith](name)
+- I am [Seth Green](name)
+- [Teddy](name)
+- [Alex](name)
+- [George Jeter](name)
+- [Emma](name)
+- I am [Alan](name)
+- I'm [Alan](name)
+- I am [Tobias](name)
+- My name is [Jason](name)
+- [Ross](name)
+- My name is also [Sara](name)!
+- [Ty](name)
+- My name [Geoff](name)
+- i am [timmy](name)
+- My name is [Sam](name)
+- [Salah](name)
+- My name is [Jimbo](name)
+- My name is bob
+- I am called [Sara](name)
+- My name is [Slim Shady](name)
+- [Marshall Mathers](name)
+- I am the real [Slim Shady](name)
+
 ## intent:affirm
 - yes
 - indeed
@@ -66,6 +98,7 @@
 - Hi Sara
 - Good afternoon!
 - hey you
+- Hi Hi hi
 
 ## intent:location
 - I am from [London](location)
@@ -92,37 +125,6 @@
 - I come from the [US](location)
 - I am from [Charlotte](location)
 
-## intent:name
-- My name is [Juste](name)
-- I am [Tom](name)
-- Please call me [Brian](name)
-- I'm [Dan](name)
-- My name is [Tyler](name)
-- [Jeff](name)
-- [Gerald Smith](name)
-- I am [Seth Green](name)
-- [Teddy](name)
-- [Alex](name)
-- [George Jeter](name)
-- [Emma](name)
-- I am [Alan](name)
-- I'm [Alan](name)
-- I am [Tobias](name)
-- My name is [Jason](name)
-- [Ross](name)
-- My name is also [Sara](name)!
-- [Ty](name)
-- My name [Geoff](name)
-- i am [timmy](name)
-- My name is [Sam](name)
-- [Salah](name)
-- My name is [Jimbo](name)
-- My name is bob
-- I am called [Sara](name)
-- My name is [Slim Shady](name)
-- [Marshall Mathers](name)
-- I am the real [Slim Shady](name)
-
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
 - I would like to subscribe to Rasa newsletter please
@@ -145,8 +147,8 @@
 - Great!
 
 ## synonym:NY
-- New York City
 - The Big Apple
+- New York City
 - New York
 
 ## synonym:SF
