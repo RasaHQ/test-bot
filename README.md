@@ -1,1 +1,1 @@
-This is a bot used to test Rasa X releases
+Basic bot used as part of testing Rasa X
