@@ -66,6 +66,7 @@
 - Hi Sara
 - Good afternoon!
 - hey you
+- test
 
 ## intent:location
 - I am from [London](location)
@@ -145,8 +146,8 @@
 - Great!
 
 ## synonym:NY
-- New York City
 - The Big Apple
+- New York City
 - New York
 
 ## synonym:SF
