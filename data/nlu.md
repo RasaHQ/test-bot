@@ -146,13 +146,13 @@
 - Great!
 
 ## synonym:NY
-- New York City
 - The Big Apple
+- New York City
 - New York
 
 ## synonym:SF
 - San Fran
 
 ## synonym:USA
-- US
 - United States
+- US
