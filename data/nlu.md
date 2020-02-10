@@ -30,6 +30,11 @@
 - what can I do?
 - what are you capable of responding to?
 - Let's go!!!!
+- 2
+- 5
+- how are you?
+- 3
+- 4
 
 ## intent:deny
 - no
@@ -154,5 +159,5 @@
 - San Fran
 
 ## synonym:USA
-- United States
 - US
+- United States
