@@ -98,6 +98,7 @@
 - I am from [America](location)
 - I come from the [US](location)
 - I am from [Charlotte](location)
+- [St. Petersburg](location)
 
 ## intent:name
 - My name is [Juste](name)
@@ -130,6 +131,8 @@
 - [Marshall Mathers](name)
 - I am the real [Slim Shady](name)
 - [Tyler](name)
+- [Raphael](name)
+- I am [Jazz](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
@@ -149,7 +152,7 @@
 - many thanks
 - Awesome. Thanks!
 - Thank you thank you
-- THANK YOU
+- THANK YOU!
 - Great!
 
 ## synonym:NY
@@ -161,5 +164,5 @@
 - San Fran
 
 ## synonym:USA
-- United States
 - US
+- United States
