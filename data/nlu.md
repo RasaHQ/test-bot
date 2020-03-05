@@ -99,6 +99,7 @@
 - I come from the [US](location)
 - I am from [Charlotte](location)
 - [St. Petersburg](location)
+- [Detroit](location)
 
 ## intent:name
 - My name is [Juste](name)
@@ -156,9 +157,9 @@
 - Great!
 
 ## synonym:NY
-- New York
-- The Big Apple
 - New York City
+- The Big Apple
+- New York
 
 ## synonym:SF
 - San Fran
